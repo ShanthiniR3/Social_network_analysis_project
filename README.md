@@ -18,7 +18,7 @@ To use the notebook in Google Colab:
 
 # Dataset
 
-The Twitter dataset used in the notebook is available here(), hosted on GitHub. This dataset is publicly accessible and contains Tweet_ID,Username,Text,Retweets,Likes,Timestamp,retweeted_user	
+The Twitter dataset used in the notebook is available here("https://github.com/ShanthiniR3/Social_network_analysis_project/blob/main/Web_mining_twitter.csv"), hosted on GitHub. This dataset is publicly accessible and contains Tweet_ID,Username,Text,Retweets,Likes,Timestamp,retweeted_user	
 
 
 # Dependencies
