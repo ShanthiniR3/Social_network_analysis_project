@@ -1,11 +1,11 @@
-# Social_network_analysis_project
+### Social_network_analysis_project
 
-# README
-# Overview
+### README
+### Overview
 
 This repository contains a Colab file (`Web_mining_project.ipynb`) that demonstrates various data preprocessing and analysis techniques on a Twitter dataset using Python. The notebook showcases how to load the dataset directly from GitHub, preprocess text data using NLTK and SpaCy, perform network analysis using NetworkX, visualize interaction networks, and apply graph frameworks like NetworkX,GraphX,igraph,Gephi and compare performance between the igraph and NetworkX framworks on this particular dataset.
 
-# Usage
+### Usage
 
 To use the notebook in Google Colab:
 1. Open the Web_mining_project.ipynb file.
@@ -16,12 +16,12 @@ To use the notebook in Google Colab:
 6. Download any neccessary libraries if needed.
 7. Follow the instructions within the notebook for any further steps or customization.
 
-# Dataset
+### Dataset
 
 The Twitter dataset used in the notebook is available here("https://github.com/ShanthiniR3/Social_network_analysis_project/blob/main/Web_mining_twitter.csv"), hosted on GitHub. This dataset is publicly accessible and contains Tweet_ID,Username,Text,Retweets,Likes,Timestamp,retweeted_user	
 
 
-# Dependencies
+### Dependencies
 
 The notebook requires the following dependencies:
 
